@@ -1,0 +1,26 @@
+.home {
+  padding: 20px;
+}
+
+.home h2 {
+  color: #135ced;
+  margin-bottom: 10px;
+  font-size: 1.5rem;
+}
+
+.home p {
+  font-size: 1rem;
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
+
+.home ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.home li {
+  padding: 8px 0;
+  font-size: 1rem;
+  border-bottom: 1px solid #05f43b;
+}
